@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DXKF.iml" filepath="$PROJECT_DIR$/DXKF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ct-analysis/ct-analysis.iml" filepath="$PROJECT_DIR$/ct-analysis/ct-analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ct-cache/ct-cache.iml" filepath="$PROJECT_DIR$/ct-cache/ct-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ct-common/ct-common.iml" filepath="$PROJECT_DIR$/ct-common/ct-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ct-concumer-coprocessor/ct-concumer-coprocessor.iml" filepath="$PROJECT_DIR$/ct-concumer-coprocessor/ct-concumer-coprocessor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ct-consumer/ct-consumer.iml" filepath="$PROJECT_DIR$/ct-consumer/ct-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ct-producer/ct-producer.iml" filepath="$PROJECT_DIR$/ct-producer/ct-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ct-web/ct-web.iml" filepath="$PROJECT_DIR$/ct-web/ct-web.iml" />
+    </modules>
+  </component>
+</project>
